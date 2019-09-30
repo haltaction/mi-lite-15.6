@@ -18,10 +18,9 @@ Tested on version 1.3.5 with Clover v2.5k_r5018 & v2.5k_r5050 - works ok.
 Not working (To fix):
 - ~~lan network~~ For Realtek RTL 8168B - Realtek RTL8111 kext from mi-Lite (#mi-Lite)
 - ~~wifi network~~ use TL-WN725Nv3 as cheapest USB wifi, https://github.com/chris1111/Wireless-USB-Adapter-Clover didn't work for me, but official mac os driver https://www.tp-link.com/us/support/download/tl-wn725n/ works fine
-- touchpad
-- sound card
-- webcam
-- apple account
+- touchpad (HID on I2C, 9D60)
+- sound card (Realtek ALC256)
+- USB 3 (Intel)
 
 
 ## Notes
