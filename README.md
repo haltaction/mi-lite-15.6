@@ -29,5 +29,6 @@ If touchpad and usb mouse doesn work, could use selection by keyboad (tab & arro
 ----------------------------------------------------
 
 ## Windows
-Installing windows 10 on SDD without disabling HDD cousing errors, like "windows detected that the efi partition was formatted as ntfs".
+Installing windows 10 on SDD without disabling HDD causing errors, like "windows detected that the efi partition was formatted as ntfs".
 Solution - https://superuser.com/questions/1333659/windows-refusing-to-install-due-to-esp-formatted-as-ntfs
+If you have a reputation - vote up
