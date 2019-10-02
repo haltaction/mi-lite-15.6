@@ -25,3 +25,9 @@ Not working (To fix):
 
 ## Notes
 If touchpad and usb mouse doesn work, could use selection by keyboad (tab & arrows, space for select) & for "Install" section good advise is https://discussions.apple.com/thread/7024975
+
+----------------------------------------------------
+
+## Windows
+Installing windows 10 on SDD without disabling HDD cousing errors, like "windows detected that the efi partition was formatted as ntfs".
+Solution - https://superuser.com/questions/1333659/windows-refusing-to-install-due-to-esp-formatted-as-ntfs
