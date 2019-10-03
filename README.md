@@ -19,6 +19,7 @@ Not working (To fix):
 - ~~lan network~~ For Realtek RTL 8168B - Realtek RTL8111 kext from mi-Lite (#mi-Lite)
 - ~~wifi network~~ use TL-WN725Nv3 as cheapest USB wifi, https://github.com/chris1111/Wireless-USB-Adapter-Clover didn't work for me, but official mac os driver https://www.tp-link.com/us/support/download/tl-wn725n/ works fine
 - touchpad (HID on I2C, 9D60)
+ Probably problem with USB ports (https://github.com/corpnewt/USBMap, https://www.youtube.com/watch?v=j3V7szXZZTc)
 - sound card (Realtek ALC256)
 - USB 3 (Intel)
 
