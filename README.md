@@ -1,5 +1,6 @@
 # mi lite 15.6 2018 model
-Hackintosh instruction
+
+# Hackintosh instruction
 
 ## Sources
 [Config for Mi notebook pro](#mi-pro) https://github.com/daliansky/XiaoMi-Pro-Hackintosh (similar model with big knowlage base)
@@ -33,3 +34,8 @@ If touchpad and usb mouse doesn work, could use selection by keyboad (tab & arro
 Installing windows 10 on SDD without disabling HDD causing errors, like "windows detected that the efi partition was formatted as ntfs".
 Solution - https://superuser.com/questions/1333659/windows-refusing-to-install-due-to-esp-formatted-as-ntfs
 If you have a reputation - vote up
+
+## Ubuntu
+Ubuntu 20.04 - after suspend audio speakers not working
+Fix - run `sudo sh restart-audio.sh`
+Source - https://askubuntu.com/questions/1234807/no-sound-after-sleep-ubuntu-20-04
